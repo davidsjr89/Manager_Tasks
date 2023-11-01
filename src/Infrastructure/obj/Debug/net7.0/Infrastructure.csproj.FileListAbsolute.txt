@@ -1,0 +1,34 @@
+C:\Project\Manager_Tasks\src\Infrastructure\bin\Debug\net7.0\Infrastructure.deps.json
+C:\Project\Manager_Tasks\src\Infrastructure\bin\Debug\net7.0\Infrastructure.dll
+C:\Project\Manager_Tasks\src\Infrastructure\bin\Debug\net7.0\Infrastructure.pdb
+C:\Project\Manager_Tasks\src\Infrastructure\obj\Debug\net7.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\Manager_Tasks\src\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Project\Manager_Tasks\src\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfo.cs
+C:\Project\Manager_Tasks\src\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Project\Manager_Tasks\src\Infrastructure\obj\Debug\net7.0\Infrastructure.dll
+C:\Project\Manager_Tasks\src\Infrastructure\obj\Debug\net7.0\refint\Infrastructure.dll
+C:\Project\Manager_Tasks\src\Infrastructure\obj\Debug\net7.0\Infrastructure.pdb
+C:\Project\Manager_Tasks\src\Infrastructure\obj\Debug\net7.0\ref\Infrastructure.dll
+C:\Project\Manager_Tasks\src\Infrastructure\bin\Debug\net7.0\Domain.dll
+C:\Project\Manager_Tasks\src\Infrastructure\bin\Debug\net7.0\Entities.dll
+C:\Project\Manager_Tasks\src\Infrastructure\bin\Debug\net7.0\Domain.pdb
+C:\Project\Manager_Tasks\src\Infrastructure\bin\Debug\net7.0\Entities.pdb
+C:\Project\Manager_Tasks\src\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Project\Manager_Tasks\src\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CopyComplete
+C:\Users\david\OneDrive\Área de Trabalho\Manager_Tasks\src\Infrastructure\bin\Debug\net7.0\Infrastructure.deps.json
+C:\Users\david\OneDrive\Área de Trabalho\Manager_Tasks\src\Infrastructure\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\david\OneDrive\Área de Trabalho\Manager_Tasks\src\Infrastructure\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\david\OneDrive\Área de Trabalho\Manager_Tasks\src\Infrastructure\bin\Debug\net7.0\Domain.dll
+C:\Users\david\OneDrive\Área de Trabalho\Manager_Tasks\src\Infrastructure\bin\Debug\net7.0\Entities.dll
+C:\Users\david\OneDrive\Área de Trabalho\Manager_Tasks\src\Infrastructure\bin\Debug\net7.0\Domain.pdb
+C:\Users\david\OneDrive\Área de Trabalho\Manager_Tasks\src\Infrastructure\bin\Debug\net7.0\Entities.pdb
+C:\Users\david\OneDrive\Área de Trabalho\Manager_Tasks\src\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\david\OneDrive\Área de Trabalho\Manager_Tasks\src\Infrastructure\obj\Debug\net7.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\OneDrive\Área de Trabalho\Manager_Tasks\src\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\david\OneDrive\Área de Trabalho\Manager_Tasks\src\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfo.cs
+C:\Users\david\OneDrive\Área de Trabalho\Manager_Tasks\src\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\david\OneDrive\Área de Trabalho\Manager_Tasks\src\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CopyComplete
+C:\Users\david\OneDrive\Área de Trabalho\Manager_Tasks\src\Infrastructure\obj\Debug\net7.0\Infrastructure.dll
+C:\Users\david\OneDrive\Área de Trabalho\Manager_Tasks\src\Infrastructure\obj\Debug\net7.0\refint\Infrastructure.dll
+C:\Users\david\OneDrive\Área de Trabalho\Manager_Tasks\src\Infrastructure\obj\Debug\net7.0\Infrastructure.pdb
+C:\Users\david\OneDrive\Área de Trabalho\Manager_Tasks\src\Infrastructure\obj\Debug\net7.0\ref\Infrastructure.dll

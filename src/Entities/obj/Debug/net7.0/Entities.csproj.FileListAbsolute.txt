@@ -1,0 +1,24 @@
+C:\Project\Manager_Tasks\src\Entities\bin\Debug\net7.0\Entities.deps.json
+C:\Project\Manager_Tasks\src\Entities\bin\Debug\net7.0\Entities.dll
+C:\Project\Manager_Tasks\src\Entities\bin\Debug\net7.0\Entities.pdb
+C:\Project\Manager_Tasks\src\Entities\obj\Debug\net7.0\Entities.csproj.AssemblyReference.cache
+C:\Project\Manager_Tasks\src\Entities\obj\Debug\net7.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\Manager_Tasks\src\Entities\obj\Debug\net7.0\Entities.AssemblyInfoInputs.cache
+C:\Project\Manager_Tasks\src\Entities\obj\Debug\net7.0\Entities.AssemblyInfo.cs
+C:\Project\Manager_Tasks\src\Entities\obj\Debug\net7.0\Entities.csproj.CoreCompileInputs.cache
+C:\Project\Manager_Tasks\src\Entities\obj\Debug\net7.0\Entities.dll
+C:\Project\Manager_Tasks\src\Entities\obj\Debug\net7.0\refint\Entities.dll
+C:\Project\Manager_Tasks\src\Entities\obj\Debug\net7.0\Entities.pdb
+C:\Project\Manager_Tasks\src\Entities\obj\Debug\net7.0\ref\Entities.dll
+C:\Users\david\OneDrive\Área de Trabalho\Manager_Tasks\src\Entities\bin\Debug\net7.0\Entities.deps.json
+C:\Users\david\OneDrive\Área de Trabalho\Manager_Tasks\src\Entities\bin\Debug\net7.0\Entities.dll
+C:\Users\david\OneDrive\Área de Trabalho\Manager_Tasks\src\Entities\bin\Debug\net7.0\Entities.pdb
+C:\Users\david\OneDrive\Área de Trabalho\Manager_Tasks\src\Entities\obj\Debug\net7.0\Entities.csproj.AssemblyReference.cache
+C:\Users\david\OneDrive\Área de Trabalho\Manager_Tasks\src\Entities\obj\Debug\net7.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\OneDrive\Área de Trabalho\Manager_Tasks\src\Entities\obj\Debug\net7.0\Entities.AssemblyInfoInputs.cache
+C:\Users\david\OneDrive\Área de Trabalho\Manager_Tasks\src\Entities\obj\Debug\net7.0\Entities.AssemblyInfo.cs
+C:\Users\david\OneDrive\Área de Trabalho\Manager_Tasks\src\Entities\obj\Debug\net7.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\david\OneDrive\Área de Trabalho\Manager_Tasks\src\Entities\obj\Debug\net7.0\Entities.dll
+C:\Users\david\OneDrive\Área de Trabalho\Manager_Tasks\src\Entities\obj\Debug\net7.0\refint\Entities.dll
+C:\Users\david\OneDrive\Área de Trabalho\Manager_Tasks\src\Entities\obj\Debug\net7.0\Entities.pdb
+C:\Users\david\OneDrive\Área de Trabalho\Manager_Tasks\src\Entities\obj\Debug\net7.0\ref\Entities.dll

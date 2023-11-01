@@ -1,0 +1,30 @@
+C:\Project\Manager_Tasks\src\Domain\bin\Debug\net7.0\Domain.deps.json
+C:\Project\Manager_Tasks\src\Domain\bin\Debug\net7.0\Domain.dll
+C:\Project\Manager_Tasks\src\Domain\bin\Debug\net7.0\Domain.pdb
+C:\Project\Manager_Tasks\src\Domain\bin\Debug\net7.0\Entities.dll
+C:\Project\Manager_Tasks\src\Domain\bin\Debug\net7.0\Entities.pdb
+C:\Project\Manager_Tasks\src\Domain\obj\Debug\net7.0\Domain.csproj.AssemblyReference.cache
+C:\Project\Manager_Tasks\src\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\Manager_Tasks\src\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+C:\Project\Manager_Tasks\src\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+C:\Project\Manager_Tasks\src\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+C:\Project\Manager_Tasks\src\Domain\obj\Debug\net7.0\Domain.csproj.CopyComplete
+C:\Project\Manager_Tasks\src\Domain\obj\Debug\net7.0\Domain.dll
+C:\Project\Manager_Tasks\src\Domain\obj\Debug\net7.0\refint\Domain.dll
+C:\Project\Manager_Tasks\src\Domain\obj\Debug\net7.0\Domain.pdb
+C:\Project\Manager_Tasks\src\Domain\obj\Debug\net7.0\ref\Domain.dll
+C:\Users\david\OneDrive\Área de Trabalho\Manager_Tasks\src\Domain\bin\Debug\net7.0\Domain.deps.json
+C:\Users\david\OneDrive\Área de Trabalho\Manager_Tasks\src\Domain\bin\Debug\net7.0\Domain.dll
+C:\Users\david\OneDrive\Área de Trabalho\Manager_Tasks\src\Domain\bin\Debug\net7.0\Domain.pdb
+C:\Users\david\OneDrive\Área de Trabalho\Manager_Tasks\src\Domain\bin\Debug\net7.0\Entities.dll
+C:\Users\david\OneDrive\Área de Trabalho\Manager_Tasks\src\Domain\bin\Debug\net7.0\Entities.pdb
+C:\Users\david\OneDrive\Área de Trabalho\Manager_Tasks\src\Domain\obj\Debug\net7.0\Domain.csproj.AssemblyReference.cache
+C:\Users\david\OneDrive\Área de Trabalho\Manager_Tasks\src\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\OneDrive\Área de Trabalho\Manager_Tasks\src\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+C:\Users\david\OneDrive\Área de Trabalho\Manager_Tasks\src\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+C:\Users\david\OneDrive\Área de Trabalho\Manager_Tasks\src\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\david\OneDrive\Área de Trabalho\Manager_Tasks\src\Domain\obj\Debug\net7.0\Domain.csproj.CopyComplete
+C:\Users\david\OneDrive\Área de Trabalho\Manager_Tasks\src\Domain\obj\Debug\net7.0\Domain.dll
+C:\Users\david\OneDrive\Área de Trabalho\Manager_Tasks\src\Domain\obj\Debug\net7.0\refint\Domain.dll
+C:\Users\david\OneDrive\Área de Trabalho\Manager_Tasks\src\Domain\obj\Debug\net7.0\Domain.pdb
+C:\Users\david\OneDrive\Área de Trabalho\Manager_Tasks\src\Domain\obj\Debug\net7.0\ref\Domain.dll

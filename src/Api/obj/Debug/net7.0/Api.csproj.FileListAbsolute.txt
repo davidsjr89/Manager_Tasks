@@ -1,0 +1,132 @@
+C:\Project\Manager_Tasks\src\Api\bin\Debug\net7.0\appsettings.Development.json
+C:\Project\Manager_Tasks\src\Api\bin\Debug\net7.0\appsettings.json
+C:\Project\Manager_Tasks\src\Api\bin\Debug\net7.0\Api.exe
+C:\Project\Manager_Tasks\src\Api\bin\Debug\net7.0\Api.deps.json
+C:\Project\Manager_Tasks\src\Api\bin\Debug\net7.0\Api.runtimeconfig.json
+C:\Project\Manager_Tasks\src\Api\bin\Debug\net7.0\Api.dll
+C:\Project\Manager_Tasks\src\Api\bin\Debug\net7.0\Api.pdb
+C:\Project\Manager_Tasks\src\Api\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Project\Manager_Tasks\src\Api\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Project\Manager_Tasks\src\Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Project\Manager_Tasks\src\Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Project\Manager_Tasks\src\Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Project\Manager_Tasks\src\Api\obj\Debug\net7.0\Api.csproj.AssemblyReference.cache
+C:\Project\Manager_Tasks\src\Api\obj\Debug\net7.0\Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\Manager_Tasks\src\Api\obj\Debug\net7.0\Api.AssemblyInfoInputs.cache
+C:\Project\Manager_Tasks\src\Api\obj\Debug\net7.0\Api.AssemblyInfo.cs
+C:\Project\Manager_Tasks\src\Api\obj\Debug\net7.0\Api.csproj.CoreCompileInputs.cache
+C:\Project\Manager_Tasks\src\Api\obj\Debug\net7.0\Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Project\Manager_Tasks\src\Api\obj\Debug\net7.0\Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Project\Manager_Tasks\src\Api\obj\Debug\net7.0\staticwebassets\msbuild.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Project\Manager_Tasks\src\Api\obj\Debug\net7.0\staticwebassets\msbuild.build.Api.props
+C:\Project\Manager_Tasks\src\Api\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Api.props
+C:\Project\Manager_Tasks\src\Api\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Api.props
+C:\Project\Manager_Tasks\src\Api\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Project\Manager_Tasks\src\Api\obj\Debug\net7.0\staticwebassets.build.json
+C:\Project\Manager_Tasks\src\Api\obj\Debug\net7.0\staticwebassets.development.json
+C:\Project\Manager_Tasks\src\Api\obj\Debug\net7.0\scopedcss\bundle\Api.styles.css
+C:\Project\Manager_Tasks\src\Api\obj\Debug\net7.0\Api.csproj.CopyComplete
+C:\Project\Manager_Tasks\src\Api\obj\Debug\net7.0\Api.dll
+C:\Project\Manager_Tasks\src\Api\obj\Debug\net7.0\refint\Api.dll
+C:\Project\Manager_Tasks\src\Api\obj\Debug\net7.0\Api.pdb
+C:\Project\Manager_Tasks\src\Api\obj\Debug\net7.0\Api.genruntimeconfig.cache
+C:\Project\Manager_Tasks\src\Api\obj\Debug\net7.0\ref\Api.dll
+C:\Project\Manager_Tasks\src\Api\bin\Debug\net7.0\Api.staticwebassets.runtime.json
+C:\Project\Manager_Tasks\src\Api\bin\Debug\net7.0\AutoMapper.dll
+C:\Project\Manager_Tasks\src\Api\bin\Debug\net7.0\Humanizer.dll
+C:\Project\Manager_Tasks\src\Api\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Project\Manager_Tasks\src\Api\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Project\Manager_Tasks\src\Api\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Project\Manager_Tasks\src\Api\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Project\Manager_Tasks\src\Api\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Project\Manager_Tasks\src\Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Project\Manager_Tasks\src\Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Project\Manager_Tasks\src\Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Project\Manager_Tasks\src\Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Project\Manager_Tasks\src\Api\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Project\Manager_Tasks\src\Api\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Project\Manager_Tasks\src\Api\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Project\Manager_Tasks\src\Api\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Project\Manager_Tasks\src\Api\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Project\Manager_Tasks\src\Api\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Project\Manager_Tasks\src\Api\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Project\Manager_Tasks\src\Api\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Project\Manager_Tasks\src\Api\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Project\Manager_Tasks\src\Api\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Project\Manager_Tasks\src\Api\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Project\Manager_Tasks\src\Api\bin\Debug\net7.0\Npgsql.dll
+C:\Project\Manager_Tasks\src\Api\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Project\Manager_Tasks\src\Api\bin\Debug\net7.0\System.CodeDom.dll
+C:\Project\Manager_Tasks\src\Api\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Project\Manager_Tasks\src\Api\bin\Debug\net7.0\Domain.dll
+C:\Project\Manager_Tasks\src\Api\bin\Debug\net7.0\Entities.dll
+C:\Project\Manager_Tasks\src\Api\bin\Debug\net7.0\Infrastructure.dll
+C:\Project\Manager_Tasks\src\Api\bin\Debug\net7.0\Infrastructure.pdb
+C:\Project\Manager_Tasks\src\Api\bin\Debug\net7.0\Domain.pdb
+C:\Project\Manager_Tasks\src\Api\bin\Debug\net7.0\Entities.pdb
+C:\Users\david\OneDrive\Área de Trabalho\Manager_Tasks\src\Api\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\david\OneDrive\Área de Trabalho\Manager_Tasks\src\Api\bin\Debug\net7.0\appsettings.json
+C:\Users\david\OneDrive\Área de Trabalho\Manager_Tasks\src\Api\bin\Debug\net7.0\Api.staticwebassets.runtime.json
+C:\Users\david\OneDrive\Área de Trabalho\Manager_Tasks\src\Api\bin\Debug\net7.0\Api.exe
+C:\Users\david\OneDrive\Área de Trabalho\Manager_Tasks\src\Api\bin\Debug\net7.0\Api.deps.json
+C:\Users\david\OneDrive\Área de Trabalho\Manager_Tasks\src\Api\bin\Debug\net7.0\Api.runtimeconfig.json
+C:\Users\david\OneDrive\Área de Trabalho\Manager_Tasks\src\Api\bin\Debug\net7.0\Api.dll
+C:\Users\david\OneDrive\Área de Trabalho\Manager_Tasks\src\Api\bin\Debug\net7.0\Api.pdb
+C:\Users\david\OneDrive\Área de Trabalho\Manager_Tasks\src\Api\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\david\OneDrive\Área de Trabalho\Manager_Tasks\src\Api\bin\Debug\net7.0\Humanizer.dll
+C:\Users\david\OneDrive\Área de Trabalho\Manager_Tasks\src\Api\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\david\OneDrive\Área de Trabalho\Manager_Tasks\src\Api\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\david\OneDrive\Área de Trabalho\Manager_Tasks\src\Api\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\david\OneDrive\Área de Trabalho\Manager_Tasks\src\Api\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\david\OneDrive\Área de Trabalho\Manager_Tasks\src\Api\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\david\OneDrive\Área de Trabalho\Manager_Tasks\src\Api\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\david\OneDrive\Área de Trabalho\Manager_Tasks\src\Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\david\OneDrive\Área de Trabalho\Manager_Tasks\src\Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\david\OneDrive\Área de Trabalho\Manager_Tasks\src\Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\david\OneDrive\Área de Trabalho\Manager_Tasks\src\Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\david\OneDrive\Área de Trabalho\Manager_Tasks\src\Api\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\david\OneDrive\Área de Trabalho\Manager_Tasks\src\Api\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\david\OneDrive\Área de Trabalho\Manager_Tasks\src\Api\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\david\OneDrive\Área de Trabalho\Manager_Tasks\src\Api\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\david\OneDrive\Área de Trabalho\Manager_Tasks\src\Api\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\david\OneDrive\Área de Trabalho\Manager_Tasks\src\Api\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\david\OneDrive\Área de Trabalho\Manager_Tasks\src\Api\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\david\OneDrive\Área de Trabalho\Manager_Tasks\src\Api\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\david\OneDrive\Área de Trabalho\Manager_Tasks\src\Api\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\david\OneDrive\Área de Trabalho\Manager_Tasks\src\Api\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\david\OneDrive\Área de Trabalho\Manager_Tasks\src\Api\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\david\OneDrive\Área de Trabalho\Manager_Tasks\src\Api\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\david\OneDrive\Área de Trabalho\Manager_Tasks\src\Api\bin\Debug\net7.0\Npgsql.dll
+C:\Users\david\OneDrive\Área de Trabalho\Manager_Tasks\src\Api\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\david\OneDrive\Área de Trabalho\Manager_Tasks\src\Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\david\OneDrive\Área de Trabalho\Manager_Tasks\src\Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\david\OneDrive\Área de Trabalho\Manager_Tasks\src\Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\david\OneDrive\Área de Trabalho\Manager_Tasks\src\Api\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\david\OneDrive\Área de Trabalho\Manager_Tasks\src\Api\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\david\OneDrive\Área de Trabalho\Manager_Tasks\src\Api\bin\Debug\net7.0\Domain.dll
+C:\Users\david\OneDrive\Área de Trabalho\Manager_Tasks\src\Api\bin\Debug\net7.0\Entities.dll
+C:\Users\david\OneDrive\Área de Trabalho\Manager_Tasks\src\Api\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\david\OneDrive\Área de Trabalho\Manager_Tasks\src\Api\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\david\OneDrive\Área de Trabalho\Manager_Tasks\src\Api\bin\Debug\net7.0\Domain.pdb
+C:\Users\david\OneDrive\Área de Trabalho\Manager_Tasks\src\Api\bin\Debug\net7.0\Entities.pdb
+C:\Users\david\OneDrive\Área de Trabalho\Manager_Tasks\src\Api\obj\Debug\net7.0\Api.csproj.AssemblyReference.cache
+C:\Users\david\OneDrive\Área de Trabalho\Manager_Tasks\src\Api\obj\Debug\net7.0\Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\OneDrive\Área de Trabalho\Manager_Tasks\src\Api\obj\Debug\net7.0\Api.AssemblyInfoInputs.cache
+C:\Users\david\OneDrive\Área de Trabalho\Manager_Tasks\src\Api\obj\Debug\net7.0\Api.AssemblyInfo.cs
+C:\Users\david\OneDrive\Área de Trabalho\Manager_Tasks\src\Api\obj\Debug\net7.0\Api.csproj.CoreCompileInputs.cache
+C:\Users\david\OneDrive\Área de Trabalho\Manager_Tasks\src\Api\obj\Debug\net7.0\Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\david\OneDrive\Área de Trabalho\Manager_Tasks\src\Api\obj\Debug\net7.0\Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\david\OneDrive\Área de Trabalho\Manager_Tasks\src\Api\obj\Debug\net7.0\staticwebassets\msbuild.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\david\OneDrive\Área de Trabalho\Manager_Tasks\src\Api\obj\Debug\net7.0\staticwebassets\msbuild.build.Api.props
+C:\Users\david\OneDrive\Área de Trabalho\Manager_Tasks\src\Api\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Api.props
+C:\Users\david\OneDrive\Área de Trabalho\Manager_Tasks\src\Api\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Api.props
+C:\Users\david\OneDrive\Área de Trabalho\Manager_Tasks\src\Api\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\david\OneDrive\Área de Trabalho\Manager_Tasks\src\Api\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\david\OneDrive\Área de Trabalho\Manager_Tasks\src\Api\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\david\OneDrive\Área de Trabalho\Manager_Tasks\src\Api\obj\Debug\net7.0\scopedcss\bundle\Api.styles.css
+C:\Users\david\OneDrive\Área de Trabalho\Manager_Tasks\src\Api\obj\Debug\net7.0\Api.csproj.CopyComplete
+C:\Users\david\OneDrive\Área de Trabalho\Manager_Tasks\src\Api\obj\Debug\net7.0\Api.dll
+C:\Users\david\OneDrive\Área de Trabalho\Manager_Tasks\src\Api\obj\Debug\net7.0\refint\Api.dll
+C:\Users\david\OneDrive\Área de Trabalho\Manager_Tasks\src\Api\obj\Debug\net7.0\Api.pdb
+C:\Users\david\OneDrive\Área de Trabalho\Manager_Tasks\src\Api\obj\Debug\net7.0\Api.genruntimeconfig.cache
+C:\Users\david\OneDrive\Área de Trabalho\Manager_Tasks\src\Api\obj\Debug\net7.0\ref\Api.dll
