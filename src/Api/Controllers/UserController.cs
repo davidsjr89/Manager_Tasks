@@ -16,11 +16,16 @@ namespace Api.Controllers
     {
         private readonly UserManager<ApplicationUser> _userManager;
         private readonly SignInManager<ApplicationUser> _signInManager;
+        private readonly ILogger<UserController> _logger;
 
-        public UserController(UserManager<ApplicationUser> userManager, SignInManager<ApplicationUser> signInManager)
+        public UserController(
+            UserManager<ApplicationUser> userManager, 
+            SignInManager<ApplicationUser> signInManager,
+            ILogger<UserController> logger)
         {
             _userManager = userManager;
             _signInManager = signInManager;
+            _logger = logger;
         }
 
         [AllowAnonymous]
@@ -30,6 +35,7 @@ namespace Api.Controllers
         {
             if(string.IsNullOrWhiteSpace(login.Email) || string.IsNullOrWhiteSpace(login.Password))
             {
+                _logger.LogInformation("Usuário ou senha não preenchidos ", login.Email);
                 return StatusCode((int)HttpStatusCode.Unauthorized);
             }
 
@@ -49,9 +55,11 @@ namespace Api.Controllers
                     .AddExpiry(10)
                     .Builder();
 
+                _logger.LogInformation("Usuário logado com sucesso ", login.Email);
                 return StatusCode((int)HttpStatusCode.Created, new { userName = login.Email, id = idUser, token = token.value });
             }
 
+            _logger.LogInformation("Usuário não tem autorização para acessar aplicação ", login.Email);
             return Unauthorized();
         }
 
@@ -62,6 +70,7 @@ namespace Api.Controllers
         {
             if(string.IsNullOrWhiteSpace(login.Email) && string.IsNullOrWhiteSpace(login.Password))
             {
+                _logger.LogError("Falta alguns dados");
                 return BadRequest("Falta alguns dados");
             }
 
@@ -75,6 +84,7 @@ namespace Api.Controllers
 
             if (result.Errors.Any())
             {
+                _logger.LogInformation(result.Errors.ToString(), login.Email);
                 return StatusCode((int)HttpStatusCode.BadRequest, result.Errors);
             }
 
@@ -87,10 +97,12 @@ namespace Api.Controllers
 
             if (results.Succeeded)
             {
+                _logger.LogInformation("Criado o usuário com sucesso", login.Email);
                 return CreatedAtAction(nameof(Login), new { identity = User.Identity }, "Usuário adicionado com sucesso");
             }
             else
             {
+                _logger.LogError("Não possível criar usuário", login.Email);
                 return StatusCode((int)HttpStatusCode.InternalServerError, "Erro ao confirmar usuário");
             }
         }

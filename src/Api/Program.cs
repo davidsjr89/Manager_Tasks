@@ -11,6 +11,8 @@ using Infrastructure.Repository.Generics;
 using Infrastructure.Repository.Repositories;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.OpenApi.Models;
+using System.Reflection;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -19,7 +21,55 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
-builder.Services.AddSwaggerGen();
+
+builder.Services.AddSwaggerGen(c =>
+{
+    c.SwaggerDoc("v1",
+                    new OpenApiInfo
+                    {
+                        Title = "Manager Tasks",
+                        Version = "v1",
+                        Description = "Faz o gerenciamento de tarefas, podendo (adicionar, remover, atualizar e listar). Conseguimos adicionar usuários e gerenciar seu acessos",
+                        Contact = new OpenApiContact 
+                        {
+                            Name = "David da Silva Júnior",
+                            Email = "david.sjr89@gmail.com",
+                            Url = new Uri("https://github.com/davidsjr89"),
+                        }
+                    }
+            );
+
+    c.AddSecurityDefinition("Bearer", new OpenApiSecurityScheme()
+    {
+        Name = "Authorization",
+        Type = SecuritySchemeType.ApiKey,
+        Scheme = "Bearer",
+        BearerFormat = "JWT",
+        In = ParameterLocation.Header,
+        Description = @"Primeiro passo você precisa fazer o login e copiar o token.
+                        JWT Cabeçalho de autorização usando o esquema Bearer.
+                        Entre 'Bearer'[espaço] digite seu token na entrada de texto abaixo.
+                        Exemplo: Bearer 12345abcdef",
+    });
+
+    c.AddSecurityRequirement(new OpenApiSecurityRequirement
+                {
+                    {
+                          new OpenApiSecurityScheme
+                          {
+                              Reference = new OpenApiReference
+                              {
+                                  Type = ReferenceType.SecurityScheme,
+                                  Id = "Bearer"
+                              }
+                          },
+                         new string[] {}
+                    }
+                });
+
+    var xmlFile = $"{Assembly.GetExecutingAssembly().GetName().Name}.xml";
+    var xmlPath = Path.Combine(AppContext.BaseDirectory, xmlFile);
+});
 
 //Configure Services
 builder.Services.AddDbContext<ContextBase>(options =>
