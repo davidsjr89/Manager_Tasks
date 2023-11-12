@@ -28,7 +28,7 @@ namespace Domain.Services
 
         public async Task<IList<Tasks>> GetEntityByStatus(Status status)
         {
-            return await _iTasks.GetEntityByStatus(x => x.Equals(status));
+            return await _iTasks.GetEntityByStatus(x => x.Status == status);
         }
 
         public async Task Update(Tasks item)

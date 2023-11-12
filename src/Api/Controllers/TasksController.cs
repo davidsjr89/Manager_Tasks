@@ -128,12 +128,12 @@ namespace Api.Controllers
         [Authorize]
         [Produces("application/json")]
         [HttpGet("/api/getentitybystatus")]
-        public async Task<TasksViewModel> GetEntityByStatus(Status status)
+        public async Task<List<TasksViewModel>> GetEntityByStatus(Status status)
         {
             try
             {
                 var tasks = await _serviceTasks.GetEntityByStatus(status);
-                var tasksMap = _iMapper.Map<TasksViewModel>(tasks);
+                var tasksMap = _iMapper.Map<List<TasksViewModel>>(tasks);
 
                 return tasksMap;
             }
